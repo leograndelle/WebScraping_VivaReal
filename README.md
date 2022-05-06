@@ -1,4 +1,4 @@
-# WebScrapping_MercadoLivre
+# WebScraping_MercadoLivre
 
 Using BeautifulSoup and Requests libraries to pull housing data from Mercado Livre's website. 
 My goal was to get information on Price, Location, Total Area and Type (House, Apartment etc.).
